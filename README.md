@@ -1,4 +1,7 @@
+
+
 Port Scanner em Python
+
 Um scanner de portas simples escrito em Python, desenvolvido para fins educacionais e de aprendizado em cybersecurity. Este projeto verifica quais portas estão abertas em um determinado endereço IP.
 
 🚀 Como Funciona
@@ -7,16 +10,10 @@ O script utiliza a biblioteca socket para tentar se conectar a cada porta de um 
 🖥️ Exemplo de Saída
 Aqui está um exemplo de como a saída do script pode parecer:
 
-Copy
-  ____  _          _   _   _           _   _   __  __           _     
- |  _ \| |        | | | | | |         | | | | |  \/  |         | |    
- | |_) | |  _ __  | |_| |_| | ___  ___| |_| | | \  / | ___  ___| |__  
- |  _ <| | | '_ \ | __| __| |/ _ \/ __| __| | | |\/| |/ _ \/ __| '_ \ 
- | |_) | | | | | || |_| |_| |  __/\__ \ |_| | | |  | |  __/ (__| | | |
- |____/|_| |_| |_| \__|\__|_|\___||___/\__|_| |_|  |_|\___|\___|_| |_|
 
 Open Ports are: 
 [22, 80, 443]
+
 🛡️ Considerações de Segurança
 Use com responsabilidade: Este script foi desenvolvido para fins educacionais. Certifique-se de ter permissão para escanear o IP ou sistema alvo.
 
